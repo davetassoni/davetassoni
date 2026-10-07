@@ -1,8 +1,10 @@
-- 👋 Hi, I’m David @davetassoni
-- 📫 How to reach me ... 
-- dave@davetassoni.com
+Hi, I'm David 👋
 
-<!---
-BigDaveyT/BigDaveyT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quality Engineer at QinetiQ. Computer Engineering Technology grad from RIT, with a minor in Music Performance.
+
+What I tinker with
+
+🎬 Plex: running and automating my media server, with Kometa handling collections, overlays and metadata
+🖨️ Ender 3 Pro: 3D printing, tuning and upgrades
+
+Reach me: dave@davetassoni.com
